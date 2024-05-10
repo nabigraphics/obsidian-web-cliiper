@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "extension": "1.4.6"
+  },
+  "scripts": {
+    "dev": "extension dev",
+    "start": "extension start",
+    "build": "extension build"
+  },
+  "type": "module",
+  "dependencies": {
+    "@tehshrike/readability": "0.2.0",
+    "turndown": "6.0.0"
+  },
+  "name": "obsidian-web-clipper",
+  "description": "A web clipper for Obsidian",
+  "private": true,
+  "version": "0.0.0"
+}
